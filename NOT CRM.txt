@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+body {
+  background-image: url('https://cssauthor.com/wp-content/uploads/2015/01/Lazeez-watercolor-textures-4K-UDH-backgrounds.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+	<title>Not a real CRM</title>
+	<h1>Not a real CRM</h1>
+	<ul><font color="blue">
+  <li>Home</li>
+  <li>Catalog</li>
+  <li>Inventory</li></font>
+</ul> 
+<h2>CONTACTS</h2>
+<h3>My CRM</h3>
+<ul><font color="blue">
+	<li>contacts</li>
+	<li>orders</li>
+	<li>calendar</li>
+	<li>tasks</li>
+	<li>evolution copies</li></font>
+</ul>
+<h4>BHARATH G</h4>
+<p>address:banashankari 3rd stage<br>City:bangalore<br>region:karnataka<br>country:india<br>postal:560085<br>phone:+9199009900<br>email:bharathg34@gmail.com</p>
+ <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31108.63212226422!2d77.53533318839744!3d12.934757193185762!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3e2c22c358b7%3A0x157068107f36f2ef!2sBanashankari%2C%20Bengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1601280773324!5m2!1sen!2sin" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+ <p>map for bharath</p>
+ <h5>Last contact viewed</h5>
+
+
+<p><font color="blue">sharath</font><br>from vijaya college</p>
+
+<p><font color="blue">HOME|CATALOG|INVENTORY</font></p>
+<p><small>Copyright &copy; 2020 Share Your Travels</small></p>
+<p><small>Copyright &copy; 2020 Share Your Travels</small></p>
+
+</head>
+<body>
+
+</body>
+</html>
